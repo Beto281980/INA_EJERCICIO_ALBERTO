@@ -6,6 +6,6 @@ jobs:
       runs-on: ubuntu-latest
       steps:
       - run: echo "Bienvenido a GITHUB Actions"
-      - run: echo "Ejecutando en ${{runnes.os}}"
+      - run: echo "Ejecutando en ${{runner.os}}"
       - run: echo "Datos de rama ${{github.ref}} de ${{ github.repository }}"
 
