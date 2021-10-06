@@ -1,0 +1,9 @@
+# Le dice a Git archivos No deben enviarse nunca al servidor
+# .gitignore
+*.txt
+
+# protectos que san MODE
+node_modules/
+
+# si es un proyecto c#
+build/
