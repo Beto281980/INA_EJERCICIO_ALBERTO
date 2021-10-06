@@ -55,4 +55,5 @@ class f {
 Dentro de un párrafo podemos poner links a [otros archivos marfdown en mi repo](pantalla.md), links a archivos normales en mi repo: ver [ejemplo.html](/ejemplo.html) o una ruta HTTPS [INA](https://www.ina.ac.cr).
 
 pruebas de acciones
+hacer push
 
